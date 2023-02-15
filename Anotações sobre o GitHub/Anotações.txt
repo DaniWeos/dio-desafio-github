@@ -1,0 +1,1 @@
+Chave SSH = Conexão segura e encriptada configurada no github com nossa máquina, tornando ela confiável.
