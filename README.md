@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de Projeto sobre GitHub
+# Git e GitHub
+Anotações e Dicas de Commit

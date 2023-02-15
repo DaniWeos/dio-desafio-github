@@ -3,5 +3,3 @@
 3- "git status" para receber o sinal verde de que o arquivo esta na fila do commit.
 4- "git commit -m "(mensagem)"" para commitar e escrever uma mensagem detalhada sobre o que esta sendo commitado.
 5- "git push origin main" para puxar o commit para o GitHub
-
-
