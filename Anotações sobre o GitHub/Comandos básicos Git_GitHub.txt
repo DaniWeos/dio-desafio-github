@@ -1,0 +1,7 @@
+cd = navegar
+cd .. = retroceder um nível
+ls = listar
+mkdir = criar pastas
+echo > = criar arquivo
+git push origin = levar arquivo pro GitHub
+git pull origin = puxar arquivo do GitHub
