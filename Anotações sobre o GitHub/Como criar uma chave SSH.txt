@@ -1,0 +1,12 @@
+Passo a passo pessoal de como criar a chave SSH:
+1- Abrir o GitBash
+2- Inserir o código: 
+ssh-keygen -t ed25519 -C danielweoswork@gmail.com               <------ email pessoal
+3- Enter e colocar senha.
+4- Navegar até a pasta:
+$ cd (caminho da pasta) ex: /c/Users/danie/.ssh/
+5- Verificar o que tem dentro:
+$ ls
+6- Pegar a chave do arquivo da pasta:
+$ cat id_ed25519.pub
+7- Copiar e colar no github, criando a chave SSH.
