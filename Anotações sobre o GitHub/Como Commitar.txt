@@ -1,0 +1,7 @@
+1- "git status" para verificar o status da pasta e se há algo para fazer commit.
+2- Se há: "git add ." para adicionar o que precisa ser commitado na lista de commits disponíveis.
+3- "git status" para receber o sinal verde de que o arquivo esta na fila do commit.
+4- "git commit -m "(mensagem)"" para commitar e escrever uma mensagem detalhada sobre o que esta sendo commitado.
+5- "git push origin main" para puxar o commit para o GitHub
+
+
